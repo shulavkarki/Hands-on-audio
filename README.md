@@ -32,6 +32,6 @@ For example, 16 bit depth audio will have 2^16 = 65,536 steps, to convert from c
 
 ### Spectrogram
 
-[Discrete Fourier Transform](Audio%2056f129ad8c574b7894140844be56f252/Discrete%20Fourier%20Transform%201e046e24d2f64de49288b41dfdde4a1a.md)
+[Discrete Fourier Transform](docs/Discrete%20Fourier%20Transform.md)
 
-[Mel Spectrogram](Audio%2056f129ad8c574b7894140844be56f252/Mel%20Spectrogram%20852962c3c05c4fb09df896d08dd467d3.md)
+[Mel Spectrogram](docs/Mel%20Spectrogram.md)
